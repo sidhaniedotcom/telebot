@@ -20,8 +20,8 @@ First open config.json and enter your number phone, api id, and api hash
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
-$ git clone https://github.com/CAIS3R/BotAddMember
-$ cd BotAddMember
+$ git clone https://github.com/sidhaniedotcom/telebot
+$ cd telebot
 $ python setup.py
 $ ./bot
 ```
