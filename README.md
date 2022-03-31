@@ -23,7 +23,6 @@ $ pkg install python
 $ git clone https://github.com/sidhaniedotcom/telebot
 $ cd telebot
 $ python setup.py
-$ ./bot
 ```
 ##
 
